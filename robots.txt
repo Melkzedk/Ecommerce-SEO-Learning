@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://melkshopeasy.netlify.app/sitemap.xml
